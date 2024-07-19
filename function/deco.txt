@@ -1,0 +1,10 @@
+@wrapper
+def function(n):
+    statements(s)
+
+#same code in different representation
+
+def function(n):
+    statement(s)
+function=wrapper(function)
+
